@@ -7,14 +7,23 @@ Hello, I'm <a href="https://pa238.github.io" target="_blank" rel="noreferrer">Pa
 </h3>
 
 <h2 align="center">
-I'm currently a high school student 👨🏻‍🎓 and in my spare time I do programming 👨🏻‍💻
+I'm currently a college student 👨🏻‍🎓 and in my spare time I do programming 👨🏻‍💻
 </h2>
 
+<pre align="center">
 I enjoy creating useful apps for everyone and spreading the open-source message!
+</pre>
 
-## I'm the founder of the project
-### PH studio [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phstudio2) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5702159986992384861)
+## 📱 My project
+<table>
+    <tr>
+      <td>PH studio</td>
+    </tr>
+</table>
 
+
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://phstudio2.github.io) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5702159986992384861) [![F-droid](https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)](https://f-droid.org/packages/com.phstudio.darktheme) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phstudio2) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:phstudio@pm.me) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s/phstudio2)
+  
 ## 💼 Technical Skills
 [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://wikiless.org/wiki/C_(programming_language)?lang=en)
@@ -37,4 +46,4 @@ I enjoy creating useful apps for everyone and spreading the open-source message!
 ## 🤝 Connect with me
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pa238.github.io)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pavelholecek@protonmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pa238_)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pa238_fpv)
